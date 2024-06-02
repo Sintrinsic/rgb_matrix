@@ -1,7 +1,7 @@
 import socket
 import threading
 from queue import Queue
-from lib.samplebase import SampleBase
+from samplebase import SampleBase
 import pickle
 import struct
 

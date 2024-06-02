@@ -4,7 +4,7 @@ import sys
 import os
 from pprint import pprint 
 
-from lib.rgbmatrix import RGBMatrix, RGBMatrixOptions
+from rgbmatrix import RGBMatrix, RGBMatrixOptions
 
 
 class SampleBase(object):

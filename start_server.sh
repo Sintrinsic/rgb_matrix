@@ -21,7 +21,7 @@ pip install -r requirements.txt
 # Run the script
 echo "Running simple_display_server.py..."
 
-python simple_display_server.py
+python lib/simple_display_server.py
 
 # Deactivate the virtual environment
 deactivate
