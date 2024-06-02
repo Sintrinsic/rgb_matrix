@@ -1,3 +1,4 @@
 # Ignore all __pycache__ directories and their contents, recursively
 **/__pycache__/
 /.idea
+/venv
